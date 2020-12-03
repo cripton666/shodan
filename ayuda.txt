@@ -1,0 +1,6 @@
+Con esta herramienta lo unico que necesita es el token de shodan 
+y esto se puede conseguir desde la pagina directa de shodan https://www.shodan.io/
+y nos vamos a rregistrar con facebook o correo de gmail para poder tener acceso a todo el contenido de shodan
+
+en esta herramienta que esta echa en bash scripting puede de una manera rapida tener acceso a las base de datos de busqueda
+de shodan solo con el token 
